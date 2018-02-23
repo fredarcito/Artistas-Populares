@@ -24,7 +24,7 @@ export default class App extends Component<Props> {
     const image = "http://1.bp.blogspot.com/-qNg0y-A3foM/UMIbLV4P46I/AAAAAAAAT-g/TlcuaehdSSU/s1600/9-11-12-rescate_ad33362bd4aba2fd3d6fdda7217a3630.jpg";
     const name = "Rescate Band";
     const likes = 200;
-    const comments = 160;
+    const comments = 140;
 
     return (
       <View style={styles.container}>
