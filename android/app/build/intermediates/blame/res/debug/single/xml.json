@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/fredarcito/Documentos/aplicacion/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/fredarcito/Documentos/aplicacion/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/fredarcito/Documentos/music/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/fredarcito/Documentos/music/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/res/xml/preferences.xml"
+    }
+]
